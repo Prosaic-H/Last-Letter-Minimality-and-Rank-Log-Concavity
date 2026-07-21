@@ -1,7 +1,9 @@
 # Last-Letter Minimality and Rank Log-Concavity
 
-Computational verification code for the paper **"Last-Letter Minimality and
-Rank Log-Concavity in Universal Coxeter Groups."**
+This repository accompanies the paper **"Last-Letter Minimality and Rank
+Log-Concavity in Universal Coxeter Groups."** It provides the computational
+verification code and machine-readable summaries corresponding to Sections 6
+and 7.
 
 The computations are regression evidence only and are not used as proofs.
 Every count is a count of **distinct reduced scattered words**. Position
