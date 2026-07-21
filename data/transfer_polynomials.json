@@ -1,0 +1,38 @@
+{
+  "check": "transfer-polynomial regression",
+  "counted_objects": "distinct reduced scattered words, not embeddings",
+  "failures": 0,
+  "integer_arithmetic": "exact",
+  "profile": "paper",
+  "python_version": "3.12.13",
+  "ranges": [
+    {
+      "alphabet_size": 2,
+      "maximum_length": 20,
+      "words": 41
+    },
+    {
+      "alphabet_size": 3,
+      "maximum_length": 15,
+      "words": 98302
+    },
+    {
+      "alphabet_size": 4,
+      "maximum_length": 11,
+      "words": 354293
+    },
+    {
+      "alphabet_size": 5,
+      "maximum_length": 9,
+      "words": 436906
+    },
+    {
+      "alphabet_size": 6,
+      "maximum_length": 7,
+      "words": 117187
+    }
+  ],
+  "result": "all assertions passed",
+  "transfer_polynomials": 17095140,
+  "words": 1006729
+}

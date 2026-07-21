@@ -1,0 +1,55 @@
+{
+  "check": "half-sandwich identities and path regression",
+  "counted_objects": "distinct reduced scattered words, not embeddings",
+  "integer_arithmetic": "exact",
+  "path_sandwiches": {
+    "defect_checks": 115769900,
+    "minimum_defect": 0,
+    "negative_values": 0,
+    "open_paths": 3939750,
+    "ranges": [
+      {
+        "alphabet_size": 2,
+        "maximum_length": 20,
+        "open_paths": 0,
+        "return_paths": 42
+      },
+      {
+        "alphabet_size": 3,
+        "maximum_length": 12,
+        "open_paths": 49146,
+        "return_paths": 49146
+      },
+      {
+        "alphabet_size": 4,
+        "maximum_length": 8,
+        "open_paths": 236184,
+        "return_paths": 118092
+      },
+      {
+        "alphabet_size": 5,
+        "maximum_length": 7,
+        "open_paths": 1310700,
+        "return_paths": 436900
+      },
+      {
+        "alphabet_size": 6,
+        "maximum_length": 6,
+        "open_paths": 2343720,
+        "return_paths": 585930
+      }
+    ],
+    "return_paths": 1190110
+  },
+  "profile": "paper",
+  "python_version": "3.12.13",
+  "result": "all assertions passed",
+  "structural_identities": {
+    "alphabet_size": 3,
+    "left_defect_instances": 2304,
+    "maximum_length": 5,
+    "mismatches": 0,
+    "right_defect_instances": 2304,
+    "transfer_surplus_instances": 2304
+  }
+}

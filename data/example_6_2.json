@@ -1,0 +1,18 @@
+{
+  "check": "Example 6.2 diagonal transfer failure",
+  "coefficients": [
+    1,
+    1,
+    2,
+    1
+  ],
+  "counted_objects": "distinct reduced scattered words, not embeddings",
+  "diagonal_direction": "1",
+  "failed_degree": 1,
+  "integer_arithmetic": "exact",
+  "log_concavity_lhs": 1,
+  "log_concavity_rhs": 2,
+  "python_version": "3.12.13",
+  "result": "expected failure reproduced",
+  "word": "12"
+}

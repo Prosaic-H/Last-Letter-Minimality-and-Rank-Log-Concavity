@@ -1,0 +1,30 @@
+{
+  "append_direction": "2",
+  "check": "Example 6.1 append-gain failure",
+  "coefficients": [
+    0,
+    0,
+    1,
+    2,
+    2,
+    3,
+    3,
+    1
+  ],
+  "counted_objects": "distinct reduced scattered words, not embeddings",
+  "failed_degree": 4,
+  "integer_arithmetic": "exact",
+  "log_concavity_lhs": 4,
+  "log_concavity_rhs": 6,
+  "python_version": "3.12.13",
+  "result": "expected failure reproduced",
+  "trimmed_coefficients": [
+    1,
+    2,
+    2,
+    3,
+    3,
+    1
+  ],
+  "word": "121213"
+}

@@ -1,0 +1,57 @@
+{
+  "check": "main invariant regression",
+  "counted_objects": "distinct reduced scattered words, not embeddings",
+  "integer_arithmetic": "exact",
+  "main_invariants": {
+    "continuation_polynomials": 4599812,
+    "failures": 0,
+    "last_letter_defects": 43793586,
+    "ranges": [
+      {
+        "alphabet_size": 2,
+        "maximum_length": 20,
+        "words": 41
+      },
+      {
+        "alphabet_size": 3,
+        "maximum_length": 15,
+        "words": 98302
+      },
+      {
+        "alphabet_size": 4,
+        "maximum_length": 11,
+        "words": 354293
+      },
+      {
+        "alphabet_size": 5,
+        "maximum_length": 9,
+        "words": 436906
+      },
+      {
+        "alphabet_size": 6,
+        "maximum_length": 7,
+        "words": 117187
+      }
+    ],
+    "words": 1006729
+  },
+  "profile": "paper",
+  "python_version": "3.12.13",
+  "recurrence_validation": {
+    "mismatches": 0,
+    "ranges": [
+      {
+        "alphabet_size": 3,
+        "maximum_length": 9,
+        "words": 1534
+      },
+      {
+        "alphabet_size": 4,
+        "maximum_length": 8,
+        "words": 13121
+      }
+    ],
+    "words": 14655
+  },
+  "result": "all assertions passed"
+}

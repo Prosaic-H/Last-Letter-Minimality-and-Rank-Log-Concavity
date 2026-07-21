@@ -1,0 +1,20 @@
+{
+  "alphabet_size": 3,
+  "ambient_words": 94,
+  "check": "alternating-suffix injection",
+  "collisions": 0,
+  "counted_objects": "distinct reduced scattered words, not embeddings",
+  "integer_arithmetic": "exact",
+  "inverse_reconstructions": 2346,
+  "maximum_ambient_length": 5,
+  "python_version": "3.12.13",
+  "result": "all assertions passed",
+  "sources": 2346,
+  "sources_by_ambient_length": {
+    "1": 6,
+    "2": 36,
+    "3": 144,
+    "4": 504,
+    "5": 1656
+  }
+}
